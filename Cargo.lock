@@ -574,6 +574,7 @@ dependencies = [
  "crypto_box",
  "ff",
  "group",
+ "hex",
  "ironfish_zkp",
  "jubjub",
  "lazy_static",
